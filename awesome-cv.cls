@@ -785,7 +785,7 @@
 %\RequirePackage[style=verbose, maxnames=99, sorting=ydnt]{biblatex}
 \RequirePackage[ % BibLaTeX
 	sorting=ydnt, % Sorts entries by year (descending order), name, title
-	style=verbose,
+	style=authoryear,
 	doi=false,
 	isbn=true,
 	url=false,
